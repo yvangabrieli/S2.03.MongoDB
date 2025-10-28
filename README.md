@@ -64,7 +64,6 @@ Before starting, make sure you have:
 
 ## 🎯 Learning Objectives
 - Practice database modeling with **documents** and **embedded relationships** in MongoDB.  
-- Apply **CRUD operations** (`insert`, `find`, `update`, `delete`).  
 - Understand **1:N** and **N:M** relationships using document references.  
 - Work with **Docker** and **MongoDB Compass** to manage and query NoSQL data.  
 
