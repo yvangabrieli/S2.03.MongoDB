@@ -68,9 +68,4 @@ Before starting, make sure you have:
 - Understand **1:N** and **N:M** relationships using document references.  
 - Work with **Docker** and **MongoDB Compass** to manage and query NoSQL data.  
 
----
-
-## 📁 Deliverable
-A single `.js` file containing all MongoDB insert statements,  
-with each command written on a single line (code obfuscated as required).
 
